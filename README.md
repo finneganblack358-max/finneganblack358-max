@@ -2,7 +2,7 @@
 
 ## About
 
-Currently, as of 2025, I am 13 years old. My goal is to be a software engineer.
+Currently, as of 2026, I am on the 9th grade and enjoy programming. My goal is to be a software engineer. 
 
 ## Main Repositories
 

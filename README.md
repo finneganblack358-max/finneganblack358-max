@@ -7,3 +7,5 @@ Currently, as of 2026, I am on the 9th grade and enjoy programming. My goal is t
 ## Main Repositories
 
 1. [Wordle Clone](https://github.com/finneganblack358-max/wordle-clone)
+
+2. [Meal Planner](https://github.com/finneganblack358-max/meal-planner)
